@@ -1,0 +1,19 @@
+body {
+  background-color: rgb(235, 231, 231);
+  color: rgb(21, 21, 36);
+}
+.myPokemon {
+    display: inline-block;
+    text-align: center;
+}
+.myPokemon img {
+    padding: 5px;
+    display: flex;
+}
+h1 {
+    text-align:center;
+    color: rgb(255, 255, 255);
+    letter-spacing: 5px;
+    text-shadow: 1px 1px 2px black, 0 0 25px blue, 0 0 5px darkblue;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
